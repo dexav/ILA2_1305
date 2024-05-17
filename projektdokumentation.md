@@ -66,16 +66,37 @@ Es ist ein Spiel, welches auf das Spiel Doodle Jump angelehnt ist. Wir wollen so
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| AP-№ | Frist    | Zuständig | Beschreibung                                      | geplante Zeit |
+|-------|----------|-----------|---------------------------------------------------|---------------|
+| 1.A   |24.05.2024 |           | Implementierung der Charakterbewegung             | 45'           |
+| 1.B   | 24.05.2024 |           | Implementierung der Sprungmechanik                | 45'           |
+| 2.A   | 24.05.2024 |           | Implementierung des Bildschirm-Scrollings         | 45'           |
+| 3.A   | 31.05.2024 |           | Hinzufügen der Punktesammelfunktion               | 45'           |
+| 4.A   | 31.05.2024 |           | Implementierung des Fallens bei Plattformverlust  | 45'           |
+| 5.A   | 31.05.2024 |           | Optimierung der Animationen                       | 45'           |
+| 6.A   | 31.05.2024 |           | Hinzufügen von Power-Ups                          | 45'           |
+| 7.A   | 31.05.2024 |           | Implementierung visueller Rückmeldungen           | 45'           |
+| 7.B   | 31.05.2024 |           | Implementierung akustischer Rückmeldungen         | 45'           |
+| 8.A   | 31.05.2024 |           | Einrichtung des Unity-Projekts                    | 45'           |
+| 9.A   | 07.06.2024 |           | Implementierung der Charakterauswahl              | 45'           |
+| 10.A  | 07.06.2024 |           | Design des Benutzerinterfaces                     | 45'           |
+| 10.B  | 07.06.2024 |           | Implementierung des Benutzerinterfaces            | 45'           |
+| 11.A  | 07.06.2024 |           | Implementierung der Speicherfunktion              | 45'           |
+| 12.A  | 07.06.2024 |           | Hinzufügen von Hindernissen                       | 45'           |
+| 13.A  | 24.05.2024 |           | Implementierung der zufälligen Plattform-Generierung | 45'       |
+| 14.A  |07.06.2024|           | Erstellung des Tutorials                          | 45'           |
+| 15.A  |07.06.2024 |           | Auswahl und Hinzufügen von Hintergrundmusik       | 45'           |
+| 15.B  | 07.06.2024 |           | Auswahl und Hinzufügen von Soundeffekten          | 45'           |
+| 1.C   | 14.06.2024 |           | Testen der Charakterbewegung                      | 45'           |
+| 2.B   | 14.06.2024 |           | Testen des Bildschirm-Scrollings                  | 45'           |
+| 3.B   | 14.06.2024 |           | Testen der Punktesammelfunktion                   | 45'           |
+| 4.B   | 14.06.2024|           | Testen des Fallens bei Plattformverlust           | 45'           |
+| 5.B   | 14.06.2024 |           | Testen der Animationen                            | 45'           |
 
-Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
+Total: 1080min / 18h
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+
 
 ## 3 Entscheiden
 
