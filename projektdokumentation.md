@@ -104,6 +104,7 @@ Total: 1080min / 18h
 Wir haben uns etnschieden das SPiel mit einem Tutorial zu machen. Das Design wollen so viel wie möglich selbst erstellen. Dazu wird warscheinlich die Nutzung von KI dazukommen.
 
 Tutorial: https://youtube.com/playlist?list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV&si=fguIKwhLjXNgty5P
+Design: https://craftpix.net/freebies/page/3/
 
 ## 4 Realisieren
 
