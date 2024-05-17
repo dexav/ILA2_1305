@@ -36,20 +36,25 @@ Es ist ein Spiel, welches auf das Spiel Doodle Jump angelehnt ist. Wir wollen so
 | 15  |  kann           | Qualität        |Als ein Spieler möchte ich verschiedene Hintergrundmusik und Soundeffekte, damit das Spiel akustisch ansprechend ist.                   |
 
 
-
-
-
-
-
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |Das Spiel ist gestartet, der Charakter ist sichtbar.	              |Pfeiltasten         | Der Charakter bewegt sich nach links oder rechts.                  |
+| 2.1  |Der Charakter steht auf einer Plattform.	              |Sprungtaste drücken.	         |Der Charakter springt nach oben.|
+| 3.1  |Der Charakter springt auf eine Plattform über der aktuellen Bildschirmposition.	              |         |Der Bildschirm scrollt nach oben und zeigt den neuen Bereich.|
+| 4.1  |Der Charakter springt auf eine Plattform oder sammelt einen Punkt ein.	              |         | Die Punktzahl erhöht sich um einen Punkt.|
+| 5.1  |Der Charakter verfehlt eine Plattform und fällt.	              |         |  Die Animationen sind flüssig und ohne Ruckeln.|
+| 6.1  |Ein Power-Up ist auf der Plattform.	              | Der Charakter berührt das Power-Up.	        |  Der Charakter erhält temporäre Vorteile wie höhere Sprünge .|
+| 7.1  | Der Charakter springt oder landet auf einer Plattform.	             |         | Ein visueller Effekt und ein Ton werden abgespielt.|
+| 8.1  | Das Spiel ist in Unity geöffnet.	             |Spiel wird kompiliert und gestartet.	         | Das Spiel läuft ohne Fehler in der Unity-Umgebung.|
+| 9.1  |Das Spiel ist gestartet.	              | Auswahlmenü für Charaktere öffnen.	        | Der Spieler kann verschiedene Charaktere sehen und auswählen.|
+| 10.1  | Das Spiel ist gestartet.	             |Benutzerinterface verwenden.	         |Das Interface ist intuitiv bedienbar, Schaltflächen und Menüs reagieren korrekt.|
+| 11.1  |Der Spieler hat Fortschritte im Spiel gemacht.	              |Spiel speichern.	         |Der aktuelle Fortschritt wird gespeichert und kann beim nächsten Start fortgesetzt werden.|
+| 12.1  | Der Charakter bewegt sich nach oben.	             | Hindernis erscheint auf dem Bildschirm.	        |Der Spieler muss dem Hindernis ausweichen, um weiter zu kommen.|
+| 13.1  | Das Spiel ist gestartet.	             |Neue Plattformen generieren.	         |Plattformen erscheinen zufällig, jedes Spiel ist anders.|
+| 14.1  |Das Spiel ist gestartet.	              | Tutorial oder Anleitung starten.	        |Das Tutorial erklärt die grundlegenden Spielmechaniken klar und verständlich.|
+| 15.1  |Das Spiel ist gestartet.	              | Hintergrundmusik und Soundeffekte einschalten.	        | Unterschiedliche Musikstücke und Soundeffekte werden abgespielt und verbessern das Spielerlebnis. |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
