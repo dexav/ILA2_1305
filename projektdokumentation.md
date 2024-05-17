@@ -1,8 +1,6 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Nursiwat & Grigioni
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -14,9 +12,8 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
-
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Ein 2D Plattformer Game, wo man Vertikal, so weit wie möglich, nach oben kommen musss, indem man auf einzelne Plattformen springen muss.
+Es ist ein Spiel, welches auf das Spiel Doodle Jump angelehnt ist. Wir wollen so ein Spiel machen, weil wir wieder mal ein Game entwickeln möchten. Dabei wollen wir lernen wie man mit Unity umgeht und wollen unser Wissen über Gamedevelopment erweitern.
 
 ### 1.2 User Stories
 
