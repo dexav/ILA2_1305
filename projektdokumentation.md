@@ -58,7 +58,7 @@ Es ist ein Spiel, welches auf das Spiel Doodle Jump angelehnt ist. Wir wollen so
 | 14.1  |Das Spiel ist gestartet.	              | Tutorial oder Anleitung starten.	        |Das Tutorial erklärt die grundlegenden Spielmechaniken klar und verständlich.|
 | 15.1  |Das Spiel ist gestartet.	              | Hintergrundmusik und Soundeffekte einschalten.	        | Unterschiedliche Musikstücke und Soundeffekte werden abgespielt und verbessern das Spielerlebnis. |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 
@@ -101,6 +101,7 @@ Total: 1080min / 18h
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns etnschieden das SPiel mit einem Tutorial zu machen. Das Design wollen so viel wie möglich selbst erstellen. Dazu wird warscheinlich die Nutzung von KI dazukommen.
 
 ## 4 Realisieren
 
