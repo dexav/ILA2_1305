@@ -13,6 +13,8 @@ Nursiwat & Grigioni
 ### 1.1 Ihr Projekt
 
 Ein 2D Plattformer Game, wo man Vertikal, so weit wie möglich, nach oben kommen musss, indem man auf einzelne Plattformen springen muss.
+
+
 Es ist ein Spiel, welches auf das Spiel Doodle Jump angelehnt ist. Wir wollen so ein Spiel machen, weil wir wieder mal ein Game entwickeln möchten. Dabei wollen wir lernen wie man mit Unity umgeht und wollen unser Wissen über Gamedevelopment erweitern.
 
 ### 1.2 User Stories
