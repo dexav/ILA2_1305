@@ -19,8 +19,28 @@ Es ist ein Spiel, welches auf das Spiel Doodle Jump angelehnt ist. Wir wollen so
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | muss               |  Funktional    | Als ein Spieler möchte ich meinen Charakter bewegen, damit ich auf Plattformen springen kann. |
+| 2  |  Muss               |Funktional      | Als ein Spieler möchte ich, dass der Bildschirm nach oben scrollt, damit ich sehen kann, wohin ich springen muss.|
+| 3 | Muss                |  Funktional    |Als ein Spieler möchte ich Punkte sammeln, damit ich meinen Fortschritt im Spiel verfolgen kann.|
+| 4  | Muss                | Funktional     |Als ein Spieler möchte ich, dass mein Charakter fällt, wenn ich eine Plattform verpasse, damit das Spiel eine Herausforderung bietet.|
+| 5 | Muss               | Qualität     | Als ein Spieler möchte ich reibungslose und flüssige Animationen, damit das Spielerlebnis angenehm ist.|
+| 6  | Muss                |Funktional      |Als ein Spieler möchte ich Power-Ups einsammeln können, damit ich temporäre Vorteile im Spiel habe.|
+| 7  | Muss                |Qualität      |Als ein Spieler möchte ich visuelle und akustische Rückmeldungen bei jedem Sprung, damit das Spiel interaktiver und spannender ist.|
+| 8  |  Muss               | Rand     | Als ein Entwickler möchte ich das Spiel in Unity entwickeln, damit ich meine Fähigkeiten in dieser Engine verbessere. |
+| 9  |  Muss               | Funktional     |  Als ein Spieler möchte ich verschiedene Charaktere auswählen können, damit ich eine personalisierte Spielerfahrung habe. |
+| 10  |  Muss               |Qualität      |Als ein Spieler möchte ich ein ansprechendes und intuitives Benutzerinterface, damit ich das Spiel leicht navigieren kann.|
+| 11 | Muss                |Rand	      | Als ein Entwickler möchte ich den Fortschritt des Spiels speichern können, damit Spieler ihre Sitzungen fortsetzen können. |
+| 12  | Muss             | Funktional        | Als ein Spieler möchte ich Hindernissen ausweichen müssen, damit das Spiel herausfordernder und spannender ist. |
+| 13  | Muss            | Funktional        |	Als ein Spieler möchte ich, dass die Plattformen zufällig generiert werden, damit das Spiel jedes Mal anders ist.                   |
+| 14  |   Muss           | Qualität      | Als ein Spieler möchte ich ein Tutorial oder eine Anleitung, damit ich schnell lerne, wie man das Spiel spielt.                    |
+| 15  |  kann           | Qualität        |Als ein Spieler möchte ich verschiedene Hintergrundmusik und Soundeffekte, damit das Spiel akustisch ansprechend ist.                   |
+
+
+
+
+
+
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
