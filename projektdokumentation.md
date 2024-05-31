@@ -5,7 +5,7 @@ Nursiwat & Grigioni
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 17/05/2024      | 0.0.1   | Informieren, Planen und einbisschen Realisieren(movement und Animation erstellt) |
-|       | ...     |                                                              |
+|       |   |                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -28,7 +28,7 @@ Es ist ein Spiel, welches auf das Spiel Doodle Jump angelehnt ist. Wir wollen so
 | 5 | Muss               | Qualität     | Als ein Spieler möchte ich reibungslose und flüssige Animationen, damit das Spielerlebnis angenehm ist.|
 | 6  | Muss                |Funktional      |Als ein Spieler möchte ich Power-Ups einsammeln können, damit ich temporäre Vorteile im Spiel habe.|
 | 7  | Muss                |Qualität      |Als ein Spieler möchte ich visuelle und akustische Rückmeldungen bei jedem Sprung, damit das Spiel interaktiver und spannender ist.|
-| 8  |  Muss               | Rand     | Als ein Entwickler möchte ich das Spiel in Unity entwickeln, damit ich meine Fähigkeiten in dieser Engine verbessere. |
+| 8  |  Muss               | Funktional     | Als Spieler möchte ich dass die Kamera den Spieler folgt, damit ich mich orientieren kann wo ich gerade bin.|
 | 9  |  Muss               | Funktional     |  Als ein Spieler möchte ich verschiedene Charaktere auswählen können, damit ich eine personalisierte Spielerfahrung habe. |
 | 10  |  Muss               |Qualität      |Als ein Spieler möchte ich ein ansprechendes und intuitives Benutzerinterface, damit ich das Spiel leicht navigieren kann.|
 | 11 | Muss                |Rand	      | Als ein Entwickler möchte ich den Fortschritt des Spiels speichern können, damit Spieler ihre Sitzungen fortsetzen können. |
@@ -49,7 +49,7 @@ Es ist ein Spiel, welches auf das Spiel Doodle Jump angelehnt ist. Wir wollen so
 | 5.1  |Der Charakter verfehlt eine Plattform und fällt.	              |         |  Die Animationen sind flüssig und ohne Ruckeln.|
 | 6.1  |Ein Power-Up ist auf der Plattform.	              | Der Charakter berührt das Power-Up.	        |  Der Charakter erhält temporäre Vorteile wie höhere Sprünge .|
 | 7.1  | Der Charakter springt oder landet auf einer Plattform.	             |         | Ein visueller Effekt und ein Ton werden abgespielt.|
-| 8.1  | Das Spiel ist in Unity geöffnet.	             |Spiel wird kompiliert und gestartet.	         | Das Spiel läuft ohne Fehler in der Unity-Umgebung.|
+| 8.1  | Das Spiel ist gestartet           |WASD        | Die Kamera verfolgt den Spieler|
 | 9.1  |Das Spiel ist gestartet.	              | Auswahlmenü für Charaktere öffnen.	        | Der Spieler kann verschiedene Charaktere sehen und auswählen.|
 | 10.1  | Das Spiel ist gestartet.	             |Benutzerinterface verwenden.	         |Das Interface ist intuitiv bedienbar, Schaltflächen und Menüs reagieren korrekt.|
 | 11.1  |Der Spieler hat Fortschritte im Spiel gemacht.	              |Spiel speichern.	         |Der aktuelle Fortschritt wird gespeichert und kann beim nächsten Start fortgesetzt werden.|
@@ -77,7 +77,7 @@ Es ist ein Spiel, welches auf das Spiel Doodle Jump angelehnt ist. Wir wollen so
 | 6.A   | 31.05.2024 |           | Hinzufügen von Power-Ups                          | 45'           |
 | 7.A   | 31.05.2024 |           | Implementierung visueller Rückmeldungen           | 45'           |
 | 7.B   | 31.05.2024 |           | Implementierung akustischer Rückmeldungen         | 45'           |
-| 8.A   | 31.05.2024 |           | Einrichtung des Unity-Projekts                    | 45'           |
+| 8.A   | 31.05.2024 |           | Implementierung Kameraverfolgung                  | 45'           |
 | 9.A   | 07.06.2024 |           | Implementierung der Charakterauswahl              | 45'           |
 | 10.A  | 07.06.2024 |           | Design des Benutzerinterfaces                     | 45'           |
 | 10.B  | 07.06.2024 |           | Implementierung des Benutzerinterfaces            | 45'           |
